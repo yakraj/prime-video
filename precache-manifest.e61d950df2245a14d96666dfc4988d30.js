@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1f078a3c5f0ec69d93c6856c9d675f2",
+    "revision": "a49e20e5a4b93e547039f22c5bbb73bb",
     "url": "/prime-video/index.html"
   },
   {
-    "revision": "35a60a1acbf5ae51dbc9",
-    "url": "/prime-video/static/css/main.f050090b.chunk.css"
+    "revision": "00e7b499dc3ed14b67f9",
+    "url": "/prime-video/static/css/main.b03feb18.chunk.css"
   },
   {
     "revision": "05bd2b10ce20afee2b0b",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prime-video/static/js/2.e9c979ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35a60a1acbf5ae51dbc9",
-    "url": "/prime-video/static/js/main.06cdf66f.chunk.js"
+    "revision": "00e7b499dc3ed14b67f9",
+    "url": "/prime-video/static/js/main.e46bebd4.chunk.js"
   },
   {
     "revision": "c8fdec451bff03c5e472",
     "url": "/prime-video/static/js/runtime-main.79d8d145.js"
+  },
+  {
+    "revision": "c592e3dd1978aa388b8f18963f5b1111",
+    "url": "/prime-video/static/media/avengers.c592e3dd.jpg"
   }
 ]);

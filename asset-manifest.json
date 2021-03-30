@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/prime-video/static/css/main.f050090b.chunk.css",
-    "main.js": "/prime-video/static/js/main.06cdf66f.chunk.js",
-    "main.js.map": "/prime-video/static/js/main.06cdf66f.chunk.js.map",
+    "main.css": "/prime-video/static/css/main.b03feb18.chunk.css",
+    "main.js": "/prime-video/static/js/main.e46bebd4.chunk.js",
+    "main.js.map": "/prime-video/static/js/main.e46bebd4.chunk.js.map",
     "runtime-main.js": "/prime-video/static/js/runtime-main.79d8d145.js",
     "runtime-main.js.map": "/prime-video/static/js/runtime-main.79d8d145.js.map",
     "static/js/2.e9c979ec.chunk.js": "/prime-video/static/js/2.e9c979ec.chunk.js",
     "static/js/2.e9c979ec.chunk.js.map": "/prime-video/static/js/2.e9c979ec.chunk.js.map",
     "index.html": "/prime-video/index.html",
-    "precache-manifest.54339eb7c84c1a5af43211354ce2203b.js": "/prime-video/precache-manifest.54339eb7c84c1a5af43211354ce2203b.js",
+    "precache-manifest.e61d950df2245a14d96666dfc4988d30.js": "/prime-video/precache-manifest.e61d950df2245a14d96666dfc4988d30.js",
     "service-worker.js": "/prime-video/service-worker.js",
-    "static/css/main.f050090b.chunk.css.map": "/prime-video/static/css/main.f050090b.chunk.css.map",
-    "static/js/2.e9c979ec.chunk.js.LICENSE.txt": "/prime-video/static/js/2.e9c979ec.chunk.js.LICENSE.txt"
+    "static/css/main.b03feb18.chunk.css.map": "/prime-video/static/css/main.b03feb18.chunk.css.map",
+    "static/js/2.e9c979ec.chunk.js.LICENSE.txt": "/prime-video/static/js/2.e9c979ec.chunk.js.LICENSE.txt",
+    "static/media/Prime.css": "/prime-video/static/media/avengers.c592e3dd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.79d8d145.js",
     "static/js/2.e9c979ec.chunk.js",
-    "static/css/main.f050090b.chunk.css",
-    "static/js/main.06cdf66f.chunk.js"
+    "static/css/main.b03feb18.chunk.css",
+    "static/js/main.e46bebd4.chunk.js"
   ]
 }
