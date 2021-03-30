@@ -1,5 +1,5 @@
 {
-  "homepage": "http://yakraj.github.io/prime-video",
+  "homepage": "https://yakraj.github.io/prime-video",
   "name": "prime-video",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "prime-video -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
