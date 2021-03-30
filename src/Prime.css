@@ -14,7 +14,7 @@ body{
  .desc{
      display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 5;
+    -webkit-line-clamp: 4;
      overflow: hidden;
 }
 .ImageCard{
@@ -450,6 +450,6 @@ input{
 }
 .FanofMarvel{
 	height:80vh;
-	background-image: url('https://images.wallpapersden.com/image/download/avengers-endgame-2019-fan-artwork_63517_2560x1080.jpg');
+	background-image: url('./images/avengers.jpg');
 	background-size:cover;
 }
